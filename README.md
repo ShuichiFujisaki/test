@@ -9,3 +9,5 @@
     1. Another user can not push develop branch.
 
   - 3. Fork Shuichi Fujisaki.
+
+  - 4. pull request to smilengineer/develop
